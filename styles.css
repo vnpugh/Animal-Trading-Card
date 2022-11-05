@@ -1,0 +1,45 @@
+#name{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+#pinkflamingo {
+  width: 300px;
+  margin-bottom: 10px; 
+  border-radius: 15px;
+}
+
+#fact{
+  font-style: italic;
+  margin-top: .5px;
+}
+
+.labels{
+  font-weight: bold;
+}
+
+#list{
+  list-style: none;
+  padding-left: 1px; 
+}
+
+#bottom-text{
+ margin-bottom: 3px; 
+}
+
+#card{
+  width: 300px;
+  margin: 18px;
+  padding: 15px;
+  border: 1px #cccccc solid;
+  border-radius: 25px;
+  box-shadow: 5px 5px rgba(119, 101, 101, 0.3)
+}
+
+#card-div{
+  padding: 18px;
+  border: 1px #cccccc solid;
+  border-radius: 15px;  
+}
